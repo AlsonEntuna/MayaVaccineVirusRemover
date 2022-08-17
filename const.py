@@ -1,0 +1,1 @@
+RESULT_FNAME = 'result.log'
